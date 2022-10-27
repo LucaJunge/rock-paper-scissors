@@ -1,0 +1,9 @@
+html,
+body {
+  margin: 0px;
+}
+
+canvas {
+  display: inline-block;
+  outline: 1px solid #000000;
+}
